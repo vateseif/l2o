@@ -2,8 +2,7 @@
 This section focuses on how to convert an instruction in English to reward and constraints of an optimization-based controller (Model Predictive Control)
 
 
-
-https://github.com/KillianLucas/open-interpreter/assets/63927363/37152071-680d-4423-9af3-64836a6f7b60
+https://drive.google.com/uc?export=view&id=13ulyzHX-SDtgxjGbaEfcynVJcQG-pPOZ
 
 
 ## Setup
