@@ -3,7 +3,8 @@ This section focuses on how to convert an instruction in English to reward and c
 
 
 
-https://drive.google.com/file/d/13ulyzHX-SDtgxjGbaEfcynVJcQG-pPOZ/view?usp=sharing
+https://github.com/KillianLucas/open-interpreter/assets/63927363/37152071-680d-4423-9af3-64836a6f7b60
+
 
 ## Setup
 ### Env
